@@ -1,12 +1,12 @@
 # Description
-`react-native`で`@react-navigation/stack`と`@react-navigation/bottom-tabs`を組み合わせたサンプルプロジェクト。
+`react-native`アプリ開発基盤
 
 # Install
 
 ```shell
-git clone https://github.com/ShutoYamada/rn-stack-and-bottom-navigator-sample-ts.git
-cd rn-stack-and-bottom-navigator-sample-ts
-yarn install
+git clone https://github.com/ikmz0104/React-Native-Assets.git
+cd React-Native-Assets
+yarn
 ```
 
 ## iOS
